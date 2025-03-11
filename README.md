@@ -3,12 +3,16 @@ This repository contains a machine learning project aimed at predicting hospital
 
 ## Table of Contents
 
+- [Dataset Citation](#dataset-citation)
 - [Overview](#overview)
 - [Data Preprocessing](#data-preprocessing)
 - [Modeling](#modeling)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Usage](#usage)
 - [Results](#results)
+
+## Dataset Citation
+Clore, J., Cios, K., DeShazo, J., & Strack, B. (2014). Diabetes 130-US Hospitals for Years 1999-2008 [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5230J.
 
 ## Overview
 
