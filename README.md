@@ -7,11 +7,8 @@ This repository contains a machine learning project aimed at predicting hospital
 - [Data Preprocessing](#data-preprocessing)
 - [Modeling](#modeling)
 - [Evaluation Metrics](#evaluation-metrics)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
